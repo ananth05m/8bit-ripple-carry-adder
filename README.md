@@ -45,7 +45,7 @@ Simulation Output
 ![Waveform](simulation/simulation.png)
 
 Timing Analysis Report
-![Timing](simulation/Timing_Report.png))
+![Timing](simulation/Timing_Report.png)
 
 Gate-Level Implementation
 ![Gate](docs/gate_level_implementation.png)
