@@ -51,7 +51,7 @@ Gate-Level Implementation
 ![Gate](docs/gate_level_implementation.png)
 
 FPGA Device Layout
-![FPGA](docs/fpga_layout.png)
+![FPGA](docs/FPGA_device_layout.png)
 
 Future Improvements:
 * Implement Carry Lookahead Adder
