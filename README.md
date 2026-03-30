@@ -31,7 +31,7 @@ AMD Vivado (Simulation + Synthesis + Timing Analysis)
 5. Run simulation
 6. Observe waveform output
 
-##Timing Analysis:
+## Timing Analysis:
 7. Run synthesis
 8. Generate timing report
 9. Analyze:
