@@ -58,4 +58,4 @@ FPGA Device Layout
 * Optimize for higher frequency
 
 ## Author:
-Ananath R M
+Ananth R M
